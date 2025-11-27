@@ -1,2 +1,2 @@
 # Selenium_Automation
-hello this is fot front end automation testing
+hello this is for front end automation testing
